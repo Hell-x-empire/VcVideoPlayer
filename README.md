@@ -23,7 +23,7 @@ The easiest way to deploy this Bot is via Heroku.
 
 # Special Thanks To 💞
 
-- [Laky](https://github.com/Mafia-rj) for [pytgcalls](https://github.com/pytgcalls/pytgcalls)
-- [Dan](https://github.com/ITS_HELLL_BOYYY) for [Pyrogram](https://github.com/pyrogram/pyrogram)
+- [Laky](https://github.com/EBDWORLD) for [pytgcalls](https://github.com/pytgcalls/pytgcalls)
+- [Dan](https://github.com/Popay-ckl) for [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 
