@@ -14,10 +14,10 @@ The easiest way to deploy this Bot is via Heroku.
 
 # Our Credit 🔥
 
-<a href="https://t.me/DeeCodeBots"><img src="https://img.shields.io/badge/Louis-1b77FF.svg?logo=Telegram"></a>
-<a href="t.me/ProErrorXD"><img src="https://img.shields.io/badge/Error-1b77FF.svg?logo=telegram"></a>
-<a href="https://t.me/piroXpower"><img src="https://img.shields.io/badge/Blaze-1b77FF.svg?logo=Telegram"></a>
-<a href="t.me/jalim_munda"><img src="https://img.shields.io/badge/Harsh-1b77FF.svg?logo=telegram"></a>
+<a href="https://t.me/EBDWORLD"><img src="https://img.shields.io/badge/Louis-1b77FF.svg?logo=Telegram"></a>
+<a href="t.me/ITS_HELLL_BOYYY"><img src="https://img.shields.io/badge/Error-1b77FF.svg?logo=telegram"></a>
+<a href="https://t.me/MAMBA_X_SUPPORT"><img src="https://img.shields.io/badge/Blaze-1b77FF.svg?logo=Telegram"></a>
+<a href="t.me/Mafia_rj"><img src="https://img.shields.io/badge/Harsh-1b77FF.svg?logo=telegram"></a>
 
 
 
